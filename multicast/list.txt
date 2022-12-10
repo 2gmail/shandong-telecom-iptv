@@ -1,0 +1,261 @@
+CCTV-1综合,http://<replace your udpxy server>/udp/239.21.1.120:5002#http://<replace your udpxy server>/udp/239.21.1.1:5002
+CCTV-2财经,http://<replace your udpxy server>/udp/239.21.1.151:5002#http://<replace your udpxy server>/udp/239.21.1.2:5002
+CCTV-3综艺,http://<replace your udpxy server>/udp/239.21.2.45:5002#http://<replace your udpxy server>/udp/239.21.1.3:5002
+CCTV-4中文国际,http://<replace your udpxy server>/udp/239.21.1.154:5002#http://<replace your udpxy server>/udp/239.21.1.4:5002
+CCTV-5体育,http://<replace your udpxy server>/udp/239.21.2.46:5002#http://<replace your udpxy server>/udp/239.21.1.5:5002
+CCTV-6电影,http://<replace your udpxy server>/udp/239.21.2.47:5002#http://<replace your udpxy server>/udp/239.21.1.6:5002
+CCTV-7国防军事,http://<replace your udpxy server>/udp/239.21.1.152:5002#http://<replace your udpxy server>/udp/239.21.1.7:5002
+CCTV-8电视剧,http://<replace your udpxy server>/udp/239.21.2.48:5002#http://<replace your udpxy server>/udp/239.21.1.8:5002
+CCTV-9纪录,http://<replace your udpxy server>/udp/239.21.1.153:5002#http://<replace your udpxy server>/udp/239.21.1.9:5002
+CCTV-10科教,http://<replace your udpxy server>/udp/239.21.1.155:5002#http://<replace your udpxy server>/udp/239.21.1.11:5002
+CCTV11戏曲,http://<replace your udpxy server>/udp/239.21.2.2:5002#http://<replace your udpxy server>/udp/239.21.1.12:5002
+CCTV-12社会与法,http://<replace your udpxy server>/udp/239.21.1.156:5002#http://<replace your udpxy server>/udp/239.21.1.13:5002
+CCTV-13新闻,http://<replace your udpxy server>/udp/239.21.2.3:5002#http://<replace your udpxy server>/udp/239.21.1.14:5002#http://<replace your udpxy server>/udp/239.21.2.1:5002
+CCTV-14少儿,http://<replace your udpxy server>/udp/239.21.1.157:5002#http://<replace your udpxy server>/udp/239.21.1.15:5002
+CCTV-15音乐,http://<replace your udpxy server>/udp/239.21.2.4:5002#http://<replace your udpxy server>/udp/239.21.1.16:5002
+CCTV-4K超高清,http://<replace your udpxy server>/udp/239.21.2.73:5002
+CCTV-17农业农村,http://<replace your udpxy server>/udp/239.21.1.186:5002
+CCTV-5+体育赛事,http://<replace your udpxy server>/udp/239.21.1.142:5002
+CCTV-4中文国际欧州,http://<replace your udpxy server>/udp/239.21.2.28:5002
+CCTV-4中文国际美洲,http://<replace your udpxy server>/udp/239.21.2.29:5002
+CGTN,http://<replace your udpxy server>/udp/239.21.2.30:5002#http://<replace your udpxy server>/udp/239.21.1.10:5002
+CGTN西班牙语,http://<replace your udpxy server>/udp/239.21.2.32:5002
+CGTN法语,http://<replace your udpxy server>/udp/239.21.2.33:5002
+CGTN阿拉伯语,http://<replace your udpxy server>/udp/239.21.2.34:5002
+CGTN俄语,http://<replace your udpxy server>/udp/239.21.2.35:5002
+CGTN纪录,http://<replace your udpxy server>/udp/239.21.2.31:5002
+浙江卫视,http://<replace your udpxy server>/udp/239.21.1.90:5002#http://<replace your udpxy server>/udp/239.21.1.17:5002
+湖南卫视,http://<replace your udpxy server>/udp/239.21.1.158:5002#http://<replace your udpxy server>/udp/239.21.1.18:5002
+江苏卫视,http://<replace your udpxy server>/udp/239.21.1.89:5002#http://<replace your udpxy server>/udp/239.21.1.19:5002
+北京卫视,http://<replace your udpxy server>/udp/239.21.1.88:5002#http://<replace your udpxy server>/udp/239.21.1.20:5002
+安徽卫视,http://<replace your udpxy server>/udp/239.21.1.159:5002#http://<replace your udpxy server>/udp/239.21.1.21:5002
+天津卫视,http://<replace your udpxy server>/udp/239.21.1.165:5002#http://<replace your udpxy server>/udp/239.21.1.22:5002
+东方卫视,http://<replace your udpxy server>/udp/239.21.1.111:5002#http://<replace your udpxy server>/udp/239.21.1.23:5002
+重庆卫视,http://<replace your udpxy server>/udp/239.21.1.233:5002#http://<replace your udpxy server>/udp/239.21.1.24:5002
+深圳卫视,http://<replace your udpxy server>/udp/239.21.1.93:5002#http://<replace your udpxy server>/udp/239.21.1.25:5002
+广东卫视,http://<replace your udpxy server>/udp/239.21.1.92:5002#http://<replace your udpxy server>/udp/239.21.1.26:5002
+辽宁卫视,http://<replace your udpxy server>/udp/239.21.1.164:5002#http://<replace your udpxy server>/udp/239.21.1.27:5002
+黑龙江卫视,http://<replace your udpxy server>/udp/239.21.1.91:5002#http://<replace your udpxy server>/udp/239.21.1.28:5002
+东南卫视,http://<replace your udpxy server>/udp/239.21.1.113:5002#http://<replace your udpxy server>/udp/239.21.1.29:5002
+陕西卫视,http://<replace your udpxy server>/udp/239.21.1.30:5002
+海南卫视,http://<replace your udpxy server>/udp/239.21.2.37:5002#http://<replace your udpxy server>/udp/239.21.1.31:5002
+湖北卫视,http://<replace your udpxy server>/udp/239.21.1.163:5002#http://<replace your udpxy server>/udp/239.21.1.32:5002
+山西卫视,http://<replace your udpxy server>/udp/239.21.1.33:5002
+四川卫视,http://<replace your udpxy server>/udp/239.21.2.15:5002#http://<replace your udpxy server>/udp/239.21.1.34:5002
+河北卫视,http://<replace your udpxy server>/udp/239.21.1.168:5002#http://<replace your udpxy server>/udp/239.21.1.35:5002
+江西卫视,http://<replace your udpxy server>/udp/239.21.1.167:5002#http://<replace your udpxy server>/udp/239.21.1.36:5002
+吉林卫视,http://<replace your udpxy server>/udp/239.21.2.49:5002#http://<replace your udpxy server>/udp/239.21.1.37:5002
+河南卫视,http://<replace your udpxy server>/udp/239.21.1.38:5002
+广西卫视,http://<replace your udpxy server>/udp/239.21.2.87:5002#http://<replace your udpxy server>/udp/239.21.2.14:5002#http://<replace your udpxy server>/udp/239.21.1.39:5002
+云南卫视,http://<replace your udpxy server>/udp/239.21.2.86:5002#http://<replace your udpxy server>/udp/239.21.1.40:5002
+内蒙古卫视,http://<replace your udpxy server>/udp/239.21.1.41:5002
+贵州卫视,http://<replace your udpxy server>/udp/239.21.1.166:5002#http://<replace your udpxy server>/udp/239.21.1.42:5002
+青海卫视,http://<replace your udpxy server>/udp/239.21.2.51:5002#http://<replace your udpxy server>/udp/239.21.2.55:5002#http://<replace your udpxy server>/udp/239.21.2.85:5002#http://<replace your udpxy server>/udp/239.21.1.43:5002
+宁夏卫视,http://<replace your udpxy server>/udp/239.21.1.44:5002
+新疆卫视,http://<replace your udpxy server>/udp/239.21.1.45:5002
+西藏卫视,http://<replace your udpxy server>/udp/239.21.1.46:5002
+甘肃卫视,http://<replace your udpxy server>/udp/239.21.2.22:5002#http://<replace your udpxy server>/udp/239.21.1.47:5002
+兵团卫视,http://<replace your udpxy server>/udp/239.21.1.234:5002
+农林卫视,http://<replace your udpxy server>/udp/239.21.1.235:5002
+厦门卫视,http://<replace your udpxy server>/udp/239.21.2.6:5002
+三沙卫视,http://<replace your udpxy server>/udp/239.21.2.9:5002
+山东卫视,http://<replace your udpxy server>/udp/239.21.1.87:5002#http://<replace your udpxy server>/udp/239.21.1.52:5002#http://<replace your udpxy server>/udp/239.21.1.107:5002
+山东齐鲁,http://<replace your udpxy server>/udp/239.21.1.134:5002#http://<replace your udpxy server>/udp/239.21.1.53:5002
+山东新闻,http://<replace your udpxy server>/udp/239.21.1.140:5002#http://<replace your udpxy server>/udp/239.21.1.54:5002
+山东综艺,http://<replace your udpxy server>/udp/239.21.1.177:5002#http://<replace your udpxy server>/udp/239.21.1.55:5002
+山东生活,http://<replace your udpxy server>/udp/239.21.1.175:5002#http://<replace your udpxy server>/udp/239.21.1.56:5002
+山东文旅,http://<replace your udpxy server>/udp/239.21.1.176:5002#http://<replace your udpxy server>/udp/239.21.1.57:5002
+山东体育,http://<replace your udpxy server>/udp/239.21.1.141:5002#http://<replace your udpxy server>/udp/239.21.1.58:5002#http://<replace your udpxy server>/udp/239.21.2.77:5002
+山东农科,http://<replace your udpxy server>/udp/239.21.1.183:5002#http://<replace your udpxy server>/udp/239.21.1.59:5002
+山东少儿,http://<replace your udpxy server>/udp/239.21.1.208:5002#http://<replace your udpxy server>/udp/239.21.1.60:5002
+山东国际,http://<replace your udpxy server>/udp/239.21.1.61:5002
+山东教育,http://<replace your udpxy server>/udp/239.21.1.169:5002#http://<replace your udpxy server>/udp/239.21.1.101:5002
+山东居家购物,http://<replace your udpxy server>/udp/239.21.1.112:5002
+济南新闻综合,http://<replace your udpxy server>/udp/239.21.1.94:5002#http://<replace your udpxy server>/udp/239.21.1.62:5002
+济南都市,http://<replace your udpxy server>/udp/239.21.1.63:5002
+济南生活,http://<replace your udpxy server>/udp/239.21.1.64:5002
+济南文旅体育,http://<replace your udpxy server>/udp/239.21.1.65:5002
+济南娱乐,http://<replace your udpxy server>/udp/239.21.1.66:5002
+济南少儿,http://<replace your udpxy server>/udp/239.21.1.68:5002
+济南长清新闻,http://<replace your udpxy server>/udp/239.21.1.107:5002
+济南教育,http://<replace your udpxy server>/udp/239.21.1.133:5002
+济南商河综合,http://<replace your udpxy server>/udp/239.21.2.53:5002
+济南鲁中,http://<replace your udpxy server>/udp/239.21.1.149:5002
+济南科教,http://<replace your udpxy server>/udp/239.21.1.150:5002
+济南济阳,http://<replace your udpxy server>/udp/239.21.1.187:5002
+济南平阴,http://<replace your udpxy server>/udp/239.21.1.221:5002
+青岛1套,http://<replace your udpxy server>/udp/239.21.1.69:5002
+青岛2套,http://<replace your udpxy server>/udp/239.21.1.70:5002
+青岛3套,http://<replace your udpxy server>/udp/239.21.1.71:5002
+青岛4套,http://<replace your udpxy server>/udp/239.21.1.72:5002
+青岛5套,http://<replace your udpxy server>/udp/239.21.1.73:5002
+青岛6套,http://<replace your udpxy server>/udp/239.21.1.74:5002
+青岛平度新闻综合,http://<replace your udpxy server>/udp/239.21.1.228:5002
+青岛黄岛新闻,http://<replace your udpxy server>/udp/239.21.2.57:5002
+青岛黄岛生活,http://<replace your udpxy server>/udp/239.21.2.58:5002
+青岛胶州新闻,http://<replace your udpxy server>/udp/239.21.2.60:5002
+青岛崂山电视台,http://<replace your udpxy server>/udp/239.21.1.223:5002#http://<replace your udpxy server>/udp/239.21.2.122:5002
+青岛莱西综合,http://<replace your udpxy server>/udp/239.21.1.247:5002
+德州新闻综合,http://<replace your udpxy server>/udp/239.21.1.75:5002
+德州经济生活,http://<replace your udpxy server>/udp/239.21.1.76:5002
+德州夏津公共,http://<replace your udpxy server>/udp/239.21.1.102:5002
+德州夏津综合,http://<replace your udpxy server>/udp/239.21.1.106:5002
+德州齐河新闻,http://<replace your udpxy server>/udp/239.21.1.230:5002
+德州武城综艺影视,http://<replace your udpxy server>/udp/239.21.1.240:5002
+德州武城新闻综合,http://<replace your udpxy server>/udp/239.21.1.239:5002
+德州禹城综合,http://<replace your udpxy server>/udp/239.21.1.241:5002
+德州禹城综艺,http://<replace your udpxy server>/udp/239.21.1.242:5002
+德州平原新闻,http://<replace your udpxy server>/udp/239.21.1.243:5002
+德州陵城新闻,http://<replace your udpxy server>/udp/239.21.2.24:5002
+德州宁津新闻综合,http://<replace your udpxy server>/udp/239.21.2.50:5002
+日照新闻综合,http://<replace your udpxy server>/udp/239.21.1.79:5002
+日照公共,http://<replace your udpxy server>/udp/239.21.2.81:5002
+日照科教,http://<replace your udpxy server>/udp/239.21.1.80:5002
+日照岚山,http://<replace your udpxy server>/udp/239.21.1.209:5002
+日照莒县,http://<replace your udpxy server>/udp/239.21.1.236:5002
+日照五莲,http://<replace your udpxy server>/udp/239.21.1.249:5002
+东营新闻综合,http://<replace your udpxy server>/udp/239.21.1.81:5002
+东营公共,http://<replace your udpxy server>/udp/239.21.1.82:5002
+东营广饶新闻综合,http://<replace your udpxy server>/udp/239.21.1.193:5002
+淄博文旅,http://<replace your udpxy server>/udp/239.21.1.83:5002
+淄博新闻综合,http://<replace your udpxy server>/udp/239.21.1.84:5002
+淄博影视,http://<replace your udpxy server>/udp/239.21.1.182:5002#http://<replace your udpxy server>/udp/239.21.1.110:5002
+淄博民生,http://<replace your udpxy server>/udp/239.21.1.108:5002#http://<replace your udpxy server>/udp/239.21.1.109:5002
+桓台综合,http://<replace your udpxy server>/udp/239.21.1.105:5002
+淄博沂源新闻,http://<replace your udpxy server>/udp/239.21.1.114:5002
+枣庄滕州,http://<replace your udpxy server>/udp/239.21.1.178:5002
+潍坊新闻综合,http://<replace your udpxy server>/udp/239.21.1.77:5002
+潍坊都市,http://<replace your udpxy server>/udp/239.21.1.78:5002
+潍坊影视文艺,http://<replace your udpxy server>/udp/239.21.2.88:5002
+潍坊科教文旅,http://<replace your udpxy server>/udp/239.21.2.89:5002
+潍坊寿光新闻,http://<replace your udpxy server>/udp/239.21.1.180:5002
+潍坊寿光蔬菜,http://<replace your udpxy server>/udp/239.21.1.218:5002
+潍坊青州文化旅游,http://<replace your udpxy server>/udp/239.21.1.231:5002
+潍坊青州综合,http://<replace your udpxy server>/udp/239.21.1.232:5002
+潍坊安丘新闻综合,http://<replace your udpxy server>/udp/239.21.2.13:5002
+潍坊昌邑新闻综合,http://<replace your udpxy server>/udp/239.21.2.27:5002
+潍坊高密新闻综合,http://<replace your udpxy server>/udp/239.21.2.59:5002
+潍坊临朐新闻综合,http://<replace your udpxy server>/udp/239.21.2.62:5002
+潍坊诸城新闻综合,http://<replace your udpxy server>/udp/239.21.1.217:5002
+潍坊昌乐新闻综合,http://<replace your udpxy server>/udp/239.21.1.245:5002
+烟台新闻综合,http://<replace your udpxy server>/udp/239.21.1.116:5002
+烟台公共,http://<replace your udpxy server>/udp/239.21.1.117:5002
+烟台影视,http://<replace your udpxy server>/udp/239.21.1.204:5002
+烟台经济科技,http://<replace your udpxy server>/udp/239.21.1.205:5002
+烟台长岛,http://<replace your udpxy server>/udp/239.21.2.52:5002
+烟台蓬莱新闻,http://<replace your udpxy server>/udp/239.21.2.56:5002
+烟台海阳综合,http://<replace your udpxy server>/udp/239.21.2.64:5002#http://<replace your udpxy server>/udp/239.21.2.68:5002
+烟台海阳综艺,http://<replace your udpxy server>/udp/239.21.2.65:5002
+烟台栖霞,http://<replace your udpxy server>/udp/239.21.1.229:5002
+烟台牟平新闻,http://<replace your udpxy server>/udp/239.21.2.10:5002
+烟台牟平生活,http://<replace your udpxy server>/udp/239.21.2.11:5002
+泰安宁阳1套,http://<replace your udpxy server>/udp/239.21.1.143:5002
+泰安宁阳2套,http://<replace your udpxy server>/udp/239.21.1.144:5002
+泰安新泰新闻综合,http://<replace your udpxy server>/udp/239.21.1.210:5002
+泰安东平新闻,http://<replace your udpxy server>/udp/239.21.1.216:5002
+泰安新泰乡村,http://<replace your udpxy server>/udp/239.21.1.248:5002
+临沂兰陵综合,http://<replace your udpxy server>/udp/239.21.1.237:5002
+临沂兰陵公共,http://<replace your udpxy server>/udp/239.21.2.63:5002
+临沂莒南综合,http://<replace your udpxy server>/udp/239.21.2.66:5002
+临沂沂水TV-1,http://<replace your udpxy server>/udp/239.21.2.79:5002
+临沂蒙阴综合,http://<replace your udpxy server>/udp/239.21.2.23:5002
+威海文登,http://<replace your udpxy server>/udp/239.21.1.174:5002
+威海乳山,http://<replace your udpxy server>/udp/239.21.1.220:5002
+威海荣成综合,http://<replace your udpxy server>/udp/239.21.1.227:5002
+济宁综合,http://<replace your udpxy server>/udp/239.21.2.19:5002#http://<replace your udpxy server>/udp/239.21.1.138:5002
+济宁公共,http://<replace your udpxy server>/udp/239.21.2.20:5002
+济宁生活,http://<replace your udpxy server>/udp/239.21.1.139:5002
+济宁金乡综合,http://<replace your udpxy server>/udp/239.21.1.184:5002
+济宁兖州新闻,http://<replace your udpxy server>/udp/239.21.1.224:5002
+济宁曲阜综合,http://<replace your udpxy server>/udp/239.21.1.225:5002
+济宁梁山综合,http://<replace your udpxy server>/udp/239.21.2.12:5002
+济宁高新,http://<replace your udpxy server>/udp/239.21.2.83:5002
+济宁嘉祥综合,http://<replace your udpxy server>/udp/239.21.2.84:5002
+济宁邹城综合,http://<replace your udpxy server>/udp/239.21.1.185:5002
+东营广饶新闻综合,http://<replace your udpxy server>/udp/239.21.1.193:5002
+聊城综合,http://<replace your udpxy server>/udp/239.21.1.253:5002
+聊城公共,http://<replace your udpxy server>/udp/239.21.1.254:5002
+聊城莘县,http://<replace your udpxy server>/udp/239.21.1.211:5002
+聊城茌平综合,http://<replace your udpxy server>/udp/239.21.1.219:5002
+聊城东阿,http://<replace your udpxy server>/udp/239.21.2.61:5002
+聊城冠县,http://<replace your udpxy server>/udp/239.21.1.250:5002
+菏泽1套,http://<replace your udpxy server>/udp/239.21.1.103:5002
+菏泽2套,http://<replace your udpxy server>/udp/239.21.2.18:5002
+菏泽巨野,http://<replace your udpxy server>/udp/239.21.1.215:5002
+菏泽定陶,http://<replace your udpxy server>/udp/239.21.1.244:5002
+菏泽单县,http://<replace your udpxy server>/udp/239.21.2.21:5002
+菏泽东明,http://<replace your udpxy server>/udp/239.21.1.246:5002
+菏泽郓城,http://<replace your udpxy server>/udp/239.21.1.251:5002
+滨州新闻综合,http://<replace your udpxy server>/udp/239.21.1.118:5002
+滨州公共,http://<replace your udpxy server>/udp/239.21.1.119:5002
+滨州无棣综合,http://<replace your udpxy server>/udp/239.21.1.214:5002
+滨州邹平新闻频道,http://<replace your udpxy server>/udp/239.21.1.238:5002
+滨州惠民综合,http://<replace your udpxy server>/udp/239.21.1.181:5002
+滨州沾化综合,http://<replace your udpxy server>/udp/239.21.1.226:5002
+滨州阳信综合,http://<replace your udpxy server>/udp/239.21.1.252:5002
+海看4K,http://<replace your udpxy server>/udp/239.21.1.179:5002
+测试4K,http://<replace your udpxy server>/udp/239.21.2.70:5002
+测试4K 3,http://<replace your udpxy server>/udp/239.21.2.72:5002
+测试4K 4,http://<replace your udpxy server>/udp/239.21.2.75:5002
+金鹰纪实,http://<replace your udpxy server>/udp/239.21.1.170:5002#http://<replace your udpxy server>/udp/239.21.1.196:5002
+上海纪实人文,http://<replace your udpxy server>/udp/239.21.1.171:5002#http://<replace your udpxy server>/udp/239.21.1.195:5002
+北京冬奥纪实,http://<replace your udpxy server>/udp/239.21.1.172:5002
+北京纪实科教,http://<replace your udpxy server>/udp/239.21.1.194:5002
+海看爱宠,http://<replace your udpxy server>/udp/239.21.1.85:5002
+海看少儿,http://<replace your udpxy server>/udp/239.21.1.97:5002
+海看剧场,http://<replace your udpxy server>/udp/239.21.1.98:5002
+海看大片,http://<replace your udpxy server>/udp/239.21.1.99:5002
+海看热播,http://<replace your udpxy server>/udp/239.21.1.100:5002
+海看电竞,http://<replace your udpxy server>/udp/239.21.1.135:5002
+9画面测试,http://<replace your udpxy server>/udp/239.21.1.203:5002
+中国教育1台,http://<replace your udpxy server>/udp/239.21.2.7:5002
+中国教育2台,http://<replace your udpxy server>/udp/239.21.2.8:5002
+中国教育4台,http://<replace your udpxy server>/udp/239.21.1.221:5002#http://<replace your udpxy server>/udp/239.21.1.222:5002
+测试69,http://<replace your udpxy server>/udp/239.21.2.69:5002
+广播,http://<replace your udpxy server>/udp/239.21.2.36:5002
+喜剧影院,http://<replace your udpxy server>/udp/239.21.1.122:5002
+动作影院,http://<replace your udpxy server>/udp/239.21.1.123:5002
+经典电影,http://<replace your udpxy server>/udp/239.21.1.124:5002
+少儿动画,http://<replace your udpxy server>/udp/239.21.1.125:5002
+相声小品,http://<replace your udpxy server>/udp/239.21.1.126:5002
+热播剧场,http://<replace your udpxy server>/udp/239.21.1.128:5002
+魅力时尚,http://<replace your udpxy server>/udp/239.21.1.129:5002
+墨宝,http://<replace your udpxy server>/udp/239.21.1.130:5002
+光影,http://<replace your udpxy server>/udp/239.21.1.131:5002
+美人,http://<replace your udpxy server>/udp/239.21.1.132:5002
+足球,http://<replace your udpxy server>/udp/239.21.1.162:5002
+中国交通,http://<replace your udpxy server>/udp/239.21.1.115:5002
+都市剧场,http://<replace your udpxy server>/udp/239.21.2.90:5002#http://<replace your udpxy server>/udp/239.21.2.82:5002
+精彩影视,http://<replace your udpxy server>/udp/239.21.2.91:5002
+魅力足球,http://<replace your udpxy server>/udp/239.21.2.95:5002
+梨园频道,http://<replace your udpxy server>/udp/239.21.2.101:5002
+武术世界,http://<replace your udpxy server>/udp/239.21.2.96:5002
+快乐垂钓,http://<replace your udpxy server>/udp/239.21.2.97:5002
+金色学堂,http://<replace your udpxy server>/udp/239.21.2.102:5002
+生活时尚,http://<replace your udpxy server>/udp/239.21.2.103:5002
+乐游,http://<replace your udpxy server>/udp/239.21.2.104:5002
+法治天地,http://<replace your udpxy server>/udp/239.21.2.105:5002
+游戏风云,http://<replace your udpxy server>/udp/239.21.2.107:5002
+东方财经,http://<replace your udpxy server>/udp/239.21.2.108:5002
+文物宝库,http://<replace your udpxy server>/udp/239.21.2.109:5002
+茶频道,http://<replace your udpxy server>/udp/239.21.2.110:5002
+书画频道,http://<replace your udpxy server>/udp/239.21.2.111:5002
+家庭理财,http://<replace your udpxy server>/udp/239.21.2.112:5002
+GTV网络棋牌,http://<replace your udpxy server>/udp/239.21.2.113:5002
+靓妆,http://<replace your udpxy server>/udp/239.21.2.114:5002
+环球旅游,http://<replace your udpxy server>/udp/239.21.2.115:5002
+车迷频道,http://<replace your udpxy server>/udp/239.21.2.116:5002
+生态环境,http://<replace your udpxy server>/udp/239.21.2.117:5002
+中华特产,http://<replace your udpxy server>/udp/239.21.2.118:5002
+海洋频道,http://<replace your udpxy server>/udp/239.21.2.119:5002
+财富天下,http://<replace your udpxy server>/udp/239.21.1.127:5002
+羽毛球,http://<replace your udpxy server>/udp/239.21.2.98:5002
+四海钓鱼,http://<replace your udpxy server>/udp/239.21.2.99:5002
+动漫秀场,http://<replace your udpxy server>/udp/239.21.2.92:5002
+卡酷少儿,http://<replace your udpxy server>/udp/239.21.2.120:5002#http://<replace your udpxy server>/udp/239.21.1.49:5002
+金鹰卡通,http://<replace your udpxy server>/udp/239.21.2.121:5002#http://<replace your udpxy server>/udp/239.21.1.48:5002
+优漫卡通,http://<replace your udpxy server>/udp/239.21.1.50:5002
+哈哈炫动,http://<replace your udpxy server>/udp/239.21.1.51:5002
+嘉佳卡通,http://<replace your udpxy server>/udp/239.21.2.5:5002
+新动漫,http://<replace your udpxy server>/udp/239.21.2.93:5002
+优优宝贝,http://<replace your udpxy server>/udp/239.21.2.94:5002
